@@ -1,5 +1,4 @@
-
-# <Challenge-01>
+#<HoriSeon-website>
 
 The motivation behind this page is to inform those who are looking into getting into online bussines to help educate about how to market online and how to efficiently advertise using social media platform. This website will help people who are starting off their business online. Users can come to this optimized website to find the information they need in an organized, and presentable place. I learn a about social media marketing as well as the fucntion behind the website when optimizing and using semantic html.
 
