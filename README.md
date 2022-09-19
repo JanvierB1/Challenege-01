@@ -8,7 +8,10 @@ The motivation behind this page is to inform those who are looking into getting 
 
 
 ## Usage
- To use this website it is very simple, the information to read is already laid out on the first page. If the user would like to know more about each topic they can select one of the topics from the header which will then take them to another page with more information about that certain topic.
+ To use this website it is very simple, the information to read is already laid out on the first page. If the user would like to know more about each topic they can select one of the topics from the header which will then take them to another page with more information about that certain topic. 
+
+ Here is the link to the website: 
+ https://janvierb1.github.io/HoriSeon-Online-Marketing/
 
 ![alt text](assets/images/Web%20capture_19-9-2022_112539_.jpeg)
 
